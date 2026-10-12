@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hola, soy <b>Javier Alvarado</b></h1>
+<h1>Hola, soy <b>Javier Alvarado</b></h1>
 
 </div>
 
@@ -207,9 +207,3 @@ Proyecto en Java con diagrama UML.
 </div>
 
 <br>
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jsam1904&hide_border=true&bg_color=282828&color=FE8019&line=FE8019&point=EBDBB2&area=true&area_color=FE8019)](https://github.com/jsam1904)
-
-</div>
