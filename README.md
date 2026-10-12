@@ -2,13 +2,6 @@
 
 <h1>Hola, soy <b>Javier Alvarado</b></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Estudiante+en+la+UVG;Desarrollo+Full+Stack;Bases+de+datos+e+IA;Siempre+aprendiendo+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO)
-
-![Profile Views](https://komarev.com/ghpvc/?username=jsam1904&color=70A5FD&style=flat-square&label=Visitas)
-
 </div>
 
 ---
@@ -17,18 +10,19 @@
 # ─── whoami ───────────────────────────────────────────────
 name:       Javier Alvarado
 location:   Guatemala 🇬🇹
-education:  TU_CARRERA @ Universidad del Valle de Guatemala
+education:  Ingeniería de Software @ Universidad del Valle de Guatemala
 
 # ─── what I do ────────────────────────────────────────────
 roles:
   - Estudiante y desarrollador Full Stack
 
 stack:
-  frontend:  [ "Vue 3", "React", "Vite" ]
-  backend:   [ "FastAPI", "Node.js", "Express", "PHP" ]
-  infra:     [ "Docker", "Docker Compose" ]
-  databases: [ "PostgreSQL" ]
-  languages: [ "Python", "JavaScript", "Java", "PHP", "SQL" ]
+  frontend:  [ "React", "CSS Modules" ]
+  backend:   [ "Node.js", "JWT" ]
+  desktop:   [ "Python", "PyQt6" ]
+  infra:     [ "Docker", "DigitalOcean" ]
+  tools:     [ "Jira", "Figma", "Blender" ]
+  languages: [ "Python", "JavaScript", "Rust" ]
 
 # ─── featured projects ────────────────────────────────────
 projects:
@@ -47,8 +41,7 @@ projects:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </details>
 
@@ -56,20 +49,11 @@ projects:
 <summary><b>🚀 Frameworks y librerías</b></summary>
 <br>
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Bases de datos</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </details>
 
@@ -78,9 +62,10 @@ projects:
 <br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
 </details>
 
