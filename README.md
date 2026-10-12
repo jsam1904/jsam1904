@@ -22,7 +22,8 @@ stack:
   desktop:   [ "Python", "PyQt6" ]
   infra:     [ "Docker", "DigitalOcean" ]
   tools:     [ "Jira", "Figma", "Blender" ]
-  languages: [ "Python", "JavaScript", "Rust" ]
+  databases: [ "MariaDB", "PostgreSQL" ]
+  languages: [ "Python", "JavaScript", "TypeScript", "Java", "Rust" ]
 
 # ─── featured projects ────────────────────────────────────
 projects:
@@ -41,6 +42,8 @@ projects:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </details>
@@ -54,6 +57,15 @@ projects:
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Bases de datos</b></summary>
+<br>
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </details>
 
