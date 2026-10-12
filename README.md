@@ -30,6 +30,12 @@ projects:
   studypilot_ai: "Asistente de estudio con IA — Vue 3, FastAPI, PostgreSQL, OpenAI"
   tiendadb:      "Inventario y ventas de una tienda — React, Express, PostgreSQL"
   algoritmos:    "Algoritmos y Estructuras de Datos (UVG) — Java"
+
+# ─── collaborations ───────────────────────────────────────
+collab:
+  parroquia:  "Plataforma Parroquia San Pedro Nolasco — React, TypeScript, Express, MariaDB, Docker"
+  lisp:       "Intérprete de Lisp — Java"
+  blenderht1: "Proyecto Java con UML y Javadocs"
 ```
 
 ---
@@ -106,14 +112,44 @@ Sistema web para gestionar inventario y ventas, con roles, JWT, reportes SQL (CT
 
 </td>
 </tr>
+</table>
+
+---
+
+## 🤝 Colaboraciones
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Algoritmos y Estructuras de Datos
-Ejemplos y recursos del curso en la Universidad del Valle de Guatemala.
-**Java**
+### ⛪ Plataforma Parroquia San Pedro Nolasco
+Aplicación web para gestionar ministros, reservas de espacios, eventos y grupos de la parroquia. Proyecto del Grupo 3 de Ingeniería de Software 2 (UVG).
+**Mi aporte:** login, reservas, dashboard por roles, recuperación de contraseña, aprobación de cuentas, CI y despliegue.
+**React · TypeScript · Express · MariaDB · Docker**
 
-[![Código](https://img.shields.io/badge/Código-000?style=flat-square&logo=github&logoColor=white)](https://github.com/jsam1904/uvg2025ed20)
+[![Código](https://img.shields.io/badge/Código-000?style=flat-square&logo=github&logoColor=white)](https://github.com/hmndzzl/Software_Proyecto)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Intérprete de Lisp
+Intérprete de Lisp desarrollado en equipo.
+**Mi aporte:** la clase `AstNode` y la definición de funciones.
+**Java · Maven**
+
+[![Código](https://img.shields.io/badge/Código-000?style=flat-square&logo=github&logoColor=white)](https://github.com/JonathanTubac/InterpreterLisp)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧱 BlenderHT1
+Proyecto en Java con diagrama UML.
+**Mi aporte:** documentación con Javadocs.
+**Java · Maven**
+
+[![Código](https://img.shields.io/badge/Código-000?style=flat-square&logo=github&logoColor=white)](https://github.com/24750Montenegro/BlenderHT1)
 
 </td>
 <td width="50%" valign="top">
@@ -128,23 +164,15 @@ Ejemplos y recursos del curso en la Universidad del Valle de Guatemala.
 
 <div align="center">
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsam1904&theme=2077)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsam1904&theme=2077)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsam1904&theme=gruvbox)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsam1904&theme=gruvbox)
 
 </div>
 
 <div align="center">
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jsam1904&theme=2077)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jsam1904&theme=2077&utcOffset=-6)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jsam1904&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jsam1904&theme=gruvbox)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jsam1904&theme=gruvbox&utcOffset=-6)
 
 </div>
 
@@ -152,6 +180,14 @@ Ejemplos y recursos del curso en la Universidad del Valle de Guatemala.
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jsam1904&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD)](https://github.com/jsam1904)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jsam1904&hide_border=true&background=282828&stroke=3C3836&ring=FE8019&fire=FE8019&currStreakNum=EBDBB2&currStreakLabel=FE8019&sideNums=EBDBB2&sideLabels=A89984&dates=A89984)
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jsam1904&hide_border=true&bg_color=282828&color=FE8019&line=FE8019&point=EBDBB2&area=true&area_color=FE8019)](https://github.com/jsam1904)
 
 </div>
