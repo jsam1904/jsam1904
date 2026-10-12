@@ -183,11 +183,3 @@ Proyecto en Java con diagrama UML.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jsam1904&hide_border=true&background=282828&stroke=3C3836&ring=FE8019&fire=FE8019&currStreakNum=EBDBB2&currStreakLabel=FE8019&sideNums=EBDBB2&sideLabels=A89984&dates=A89984)
 
 </div>
-
-<br>
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jsam1904&hide_border=true&bg_color=282828&color=FE8019&line=FE8019&point=EBDBB2&area=true&area_color=FE8019)](https://github.com/jsam1904)
-
-</div>
