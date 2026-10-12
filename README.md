@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hola, soy <b>Javier Alvarado</b></h1>
+<h1>👋 Hola, soy <b>Javier Alvarado</b></h1>
 
 </div>
 
@@ -29,6 +29,8 @@ stack:
 projects:
   studypilot_ai: "Asistente de estudio con IA — Vue 3, FastAPI, PostgreSQL, OpenAI"
   tiendadb:      "Inventario y ventas de una tienda — React, Express, PostgreSQL"
+  raycaster:     "Motor de raycasting estilo Wolfenstein 3D — Rust, raylib"
+  diorama:       "Diorama con raytracing desde cero, sin dependencias — Rust"
   algoritmos:    "Algoritmos y Estructuras de Datos (UVG) — Java"
 
 # ─── collaborations ───────────────────────────────────────
@@ -112,6 +114,26 @@ Sistema web para gestionar inventario y ventas, con roles, JWT, reportes SQL (CT
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Rust Raycaster
+Motor de raycasting estilo Wolfenstein 3D con framebuffer propio, paredes texturizadas, sprites animados, enemigos con IA, minimapa, audio y 3 niveles jugables.
+**Rust · raylib**
+
+[![Código](https://img.shields.io/badge/Código-000?style=flat-square&logo=github&logoColor=white)](https://github.com/jsam1904/Proyecto-1-Graficos)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧊 Diorama con Raytracing
+Raytracer escrito desde cero y sin dependencias: diorama estilo Minecraft con isla, cueva, Nether y End. Reflexión y refracción (Fresnel), normal maps, materiales emisivos, skybox, terreno procedural y render paralelo.
+**Rust · CPU · 28 materiales**
+
+[![Código](https://img.shields.io/badge/Código-000?style=flat-square&logo=github&logoColor=white)](https://github.com/jsam1904/Proyecto-2-Graficos)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -181,5 +203,13 @@ Proyecto en Java con diagrama UML.
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jsam1904&hide_border=true&background=282828&stroke=3C3836&ring=FE8019&fire=FE8019&currStreakNum=EBDBB2&currStreakLabel=FE8019&sideNums=EBDBB2&sideLabels=A89984&dates=A89984)
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jsam1904&hide_border=true&bg_color=282828&color=FE8019&line=FE8019&point=EBDBB2&area=true&area_color=FE8019)](https://github.com/jsam1904)
 
 </div>
